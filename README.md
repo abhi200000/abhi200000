@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Abhishek Pachauri
 
-<!--
-**abhi200000/abhi200000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Frontend Developer
 
-Here are some ideas to get you started:
+I am passionate about building modern and responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React (Learning)
+- TypeScript (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- React.js
+- TypeScript
+- Tailwind CSS
+- Next.js
+
+---
+
+## 📌 Featured Projects
+
+- 🏥 MediTrack
+- 📱 ConnectHub
+- 🌐 Portfolio Website (Coming Soon)
+
+
+
+
 -->
