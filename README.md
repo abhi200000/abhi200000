@@ -1,37 +1,56 @@
-# Hi 👋 I'm Abhishek Pachauri
+# Hi, I'm Abhishek Pachauri 👋
 
-## 💻 Frontend Developer
+### QA Automation Tester | Python | Selenium | PyTest
 
-I am passionate about building modern and responsive web applications.
+I'm a B.Tech graduate in Artificial Intelligence & Machine Learning,
+focused on QA Automation and Software Testing.
 
----
+## 🧪 Testing Skills
 
-## 🚀 Tech Stack
+- Python
+- Selenium WebDriver
+- PyTest
+- Page Object Model (POM)
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- API Testing
+- Postman
+- SQL
+- REST APIs
 
-- HTML
-- CSS
-- JavaScript
-- React (Learning)
-- TypeScript (Learning)
+## 🛠️ Tools
 
----
+- Git & GitHub
+- JIRA
+- VS Code
+- Chrome DevTools
+- pytest-html
 
-## 📚 Currently Learning
+## 🚀 Featured Projects
 
-- React.js
-- TypeScript
-- Tailwind CSS
-- Next.js
+### 🛒 ShopEase - E-Commerce Web Automation
+Python + Selenium + PyTest + POM
 
----
+Automated critical e-commerce workflows including login,
+product search, cart management and checkout.
 
-## 📌 Featured Projects
+### 🏦 BankSecure - API & Database Test Automation
+Python + PyTest + Requests + REST API + SQL
 
-- 🏥 MediTrack
-- 📱 ConnectHub
-- 🌐 Portfolio Website (Coming Soon)
+Automated API validation and database testing for backend
+functionality and data integrity.
 
+## 🎯 Currently Looking For
 
+Entry-level opportunities in:
 
+- QA Automation
+- Automation Testing
+- QA Engineering
+- Software Testing
 
--->
+## 📫 Connect With Me
+
+- LinkedIn: [Abhishek Pachauri](abhishek-pachauri-d)
+- Email: pachauriabhishek556@gmail.com
