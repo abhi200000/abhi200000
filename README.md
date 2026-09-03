@@ -52,5 +52,5 @@ Entry-level opportunities in:
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Abhishek Pachauri](abhishek-pachauri-d)
+- LinkedIn: [Abhishek Pachauri](abhishek-pachauri-dev)
 - Email: pachauriabhishek556@gmail.com
