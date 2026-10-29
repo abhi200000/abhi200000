@@ -62,9 +62,9 @@ A responsive authentication interface focused on form validation and consistent 
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [Add your LinkedIn profile]
+- **LinkedIn:** https://www.linkedin.com/in/abhishek-pachauri-dev/
 - **Email:** abhishekpachauridev5@gmail.com
-- **GitHub:** [Add your GitHub profile URL]
+- **GitHub:** (https://www.linkedin.com/in/abhishek-pachauri-dev/)
 
 ---
 
